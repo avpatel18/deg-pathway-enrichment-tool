@@ -1,0 +1,2 @@
+[console_scripts]
+deg-pathway-analysis = deg_pathway_enrichment_tool.cli:main

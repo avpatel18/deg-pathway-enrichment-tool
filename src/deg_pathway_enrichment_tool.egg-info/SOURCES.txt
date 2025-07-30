@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+requirements.txt
+src/deg_pathway_enrichment_tool/__init__.py
+src/deg_pathway_enrichment_tool/cli.py
+src/deg_pathway_enrichment_tool/core.py
+src/deg_pathway_enrichment_tool.egg-info/PKG-INFO
+src/deg_pathway_enrichment_tool.egg-info/SOURCES.txt
+src/deg_pathway_enrichment_tool.egg-info/dependency_links.txt
+src/deg_pathway_enrichment_tool.egg-info/entry_points.txt
+src/deg_pathway_enrichment_tool.egg-info/requires.txt
+src/deg_pathway_enrichment_tool.egg-info/top_level.txt
