@@ -6,7 +6,7 @@ A comprehensive tool for differential gene expression pathway enrichment analysi
 """
 
 __version__ = "1.0.0"
-__author__ = "DEG Analysis Team"
+__author__ = "Ankit Patel"
 
 from .core import DEGPathwayAnalyzer
 
