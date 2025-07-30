@@ -166,7 +166,7 @@ If you use this tool in your research, please cite:
 
 ```
 DEG Pathway Enrichment Tool (2025). 
-Available at: https://github.com/yourusername/deg-pathway-enrichment-tool
+Available at: https://github.com/avpatel18/deg-pathway-enrichment-tool/
 ```
 
 ## Support
