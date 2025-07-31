@@ -121,9 +121,9 @@ deg-pathway-analysis --help
 - **Reactome_2022**: Reactome pathway database
 - **MSigDB_Hallmark_2020**: MSigDB Hallmark gene sets
 
-## Advanced Usage
+## Advance Usage
 
-### Custom Database Selection
+### Custom Database Selection (out of 4 database)
 
 ```bash
 deg-pathway-analysis input.csv --databases KEGG_2021_Human GO_Biological_Process_2021
@@ -171,9 +171,9 @@ Available at: https://github.com/avpatel18/deg-pathway-enrichment-tool/
 
 ## Support
 
-- 📖 Documentation: [GitHub Wiki](https://github.com/yourusername/deg-pathway-enrichment-tool/wiki)
-- 🐛 Bug Reports: [GitHub Issues](https://github.com/yourusername/deg-pathway-enrichment-tool/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/deg-pathway-enrichment-tool/discussions)
+- 📖 Documentation: [GitHub Wiki](https://github.com/avpatel18/deg-pathway-enrichment-tool/wiki)
+- 🐛 Bug Reports: [GitHub Issues](https://github.com/avpatel18/deg-pathway-enrichment-tool/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/avpatel18/deg-pathway-enrichment-tool/discussions)
 
 ## Changelog
 
